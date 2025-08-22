@@ -4,7 +4,7 @@ Fun discord bot for (almost) everything!
 
 
 
-Command the bot has:
+Commands the bot has:
 
 ### Moderation 
 
