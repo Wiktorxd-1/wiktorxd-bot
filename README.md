@@ -38,6 +38,6 @@ Commands the bot has:
 - **/reload** reload all command
 - **/restart** restart bot
 - **/update** update file for /hatches
-- 
+
 ---
 Main server: https://discord.gg/4zXsCpqF3m
